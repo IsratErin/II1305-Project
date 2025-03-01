@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5608d22a64bb1e14d88168632a25581d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pathMaterial: {fileID: 2100000, guid: 4c78800759e97ff45a894b0caef2f579, type: 2}
+  - cityMaterial: {fileID: 2100000, guid: f9e1a37c085e29840bfe8b1444811e14, type: 2}
+  - baseMaterial: {fileID: 2100000, guid: 2c1c13d913ace8846bd3e046f9f0181d, type: 2}
+  - minefieldMaterial: {fileID: 2100000, guid: 395c1c1b1bbb31c418a363fc1f8706f4, type: 2}
+  - safeMaterial: {fileID: 2100000, guid: 6b001e2b0da1b71469aa9d2b86c48975, type: 2}
+  - correctMaterial: {fileID: 2100000, guid: 92ad5cdcfcb96c341ab4467171b2d290, type: 2}
+  - incorrectMaterial: {fileID: 2100000, guid: 4c78800759e97ff45a894b0caef2f579, type: 2}
+  - gameboardContainer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
